@@ -3,7 +3,7 @@
 * *
 * * *
 * * * */
-package interview;
+package test;
 
 public class Problem1 {
 

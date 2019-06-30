@@ -1,6 +1,4 @@
-package interview;
-
-import java.util.Arrays;
+package test;
 
 public class ReverseTest {
 

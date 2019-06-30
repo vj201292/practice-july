@@ -1,4 +1,4 @@
-package interview;
+package test;
 
 //count word using a map
 

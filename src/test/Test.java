@@ -1,4 +1,4 @@
-package interview;
+package test;
 
 import java.util.*;
 
